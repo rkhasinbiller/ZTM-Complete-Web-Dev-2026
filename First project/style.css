@@ -1,0 +1,58 @@
+/* Selector {
+  
+} */
+
+body {
+  background-image: url(stlCards.png);
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-position: center 200px;
+  
+}
+
+h2, p{
+  color: #AAAA39;
+  text-align: center;
+  border: 5px solid #323875;
+  cursor: pointer;
+
+}
+
+P {
+  line-height: 50px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 100%;
+  font-family:"Georgia", Arial, Helvetica, sans-serif;
+}
+img {
+  float:left;
+}
+
+p {
+  color: brown;
+}
+
+li{
+  list-style: none;
+  display:inline-block;
+}
+
+.webtext {
+  border: 5px dashed;
+}
+
+.active {
+  color: pink;
+}
+
+#div1 {
+  background: rgba(0,0,255,0.2);
+}
+
+footer {
+  color: purple;
+  font-family: helvetica;
+  font-size: 15px;
+  text-align: right;
+}
